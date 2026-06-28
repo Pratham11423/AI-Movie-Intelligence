@@ -2,20 +2,20 @@
 
 <!--
   ╔══════════════════════════════════════════════════════╗
-  ║          MOVIEMIND AI — PREMIUM README               ║
+  ║          RESUMIND AI — PREMIUM README                ║
   ║        Designed to impress. Built to convert.        ║
   ╚══════════════════════════════════════════════════════╝
 -->
 
 <!-- ═══════════════════════ TOP BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d001a,40:3b0764,70:1e3a5f,100:0d001a&height=300&section=header&text=MovieMind%20AI&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%E2%9C%A6%20AI-Powered%20Movie%20Intelligence%20Extractor%20%E2%9C%A6&descAlignY=68&descSize=20&descColor=c4b5fd&stroke=a78bfa&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a0d,40:064d2e,70:1a3a5f,100:001a0d&height=300&section=header&text=ResuMind%20AI&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%E2%9C%A6%20AI-Powered%20Resume%20Intelligence%20Analyzer%20%E2%9C%A6&descAlignY=68&descSize=20&descColor=86efac&stroke=4ade80&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════════ TYPING ANIMATION (emoji-free for reliability) ═══════════════════════ -->
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=46&lines=Extract+Movie+Intelligence+Instantly;Dual+Mode+AI+Extraction+Engine;Mistral+AI+%2B+LangChain+Pipeline;Premium+SaaS+UI+%7C+Portfolio+Ready;Live+on+HuggingFace+Spaces" alt="MovieMind AI — rotating taglines"/>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=750&height=46&lines=Analyze+Any+Resume+Instantly;Dual+Mode+AI+Extraction+Engine;Mistral+AI+%2B+LangChain+Pipeline;Premium+SaaS+UI+%7C+Portfolio+Ready;Live+on+HuggingFace+Spaces" alt="ResuMind AI — rotating taglines"/>
 
 <br/><br/>
 
@@ -38,7 +38,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Docker-Deployed-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/License-MIT-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/License-MIT-4ade80?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-LIVE-00C851?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117"/>
 </p>
@@ -47,16 +47,16 @@
 
 <!-- ═══════════════════════ CTA BUTTONS ═══════════════════════ -->
 
-<a href="https://huggingface.co/spaces/Anmoldhiman17/moviemind-ai">
+<a href="https://huggingface.co/spaces/prathamvishwakarma/resumind-ai">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-HuggingFace%20Spaces-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a0a00" alt="Live Demo"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/anmoldhiman17/moviemind-ai-intelligence">
+<a href="https://github.com/prathamvishwakarma/resumind-ai">
   <img src="https://img.shields.io/badge/%E2%AD%90%20Star%20Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Star Repo"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/anmoldhiman17/moviemind-ai-intelligence/blob/main/app.py">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20View%20Code-Source-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d001a" alt="View Code"/>
+<a href="https://github.com/prathamvishwakarma/resumind-ai/blob/main/app.py">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6%20View%20Code-Source-16a34a?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=001a0d" alt="View Code"/>
 </a>
 
 <br/><br/>
@@ -65,7 +65,7 @@
 
 <br/>
 
-> ### *"Not just a UI wrapper — a production AI pipeline that transforms raw movie text into structured intelligence."*
+> ### *"Not just a UI wrapper — a production AI pipeline that transforms raw resume text into structured career intelligence."*
 
 <br/>
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 🎥 &nbsp;Visual Demo
+## 📄 &nbsp;Visual Demo
 
 <br/>
 
@@ -109,18 +109,18 @@
 
 <br/><br/>
 
-MovieMind AI is fully deployed and publicly accessible — no setup required. Click below to open the live app:
+ResuMind AI is fully deployed and publicly accessible — no setup required. Click below to open the live app:
 
 <br/>
 
-<a href="https://huggingface.co/spaces/Anmoldhiman17/moviemind-ai">
-  <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20%20Open%20Live%20App%20%E2%80%94%20MovieMind%20AI-Click%20to%20Preview-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=2d1a00" height="42" alt="Open Live App"/>
+<a href="https://huggingface.co/spaces/prathamvishwakarma/resumind-ai">
+  <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20%20Open%20Live%20App%20%E2%80%94%20ResuMind%20AI-Click%20to%20Preview-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=2d1a00" height="42" alt="Open Live App"/>
 </a>
 
 <br/><br/>
 
 ```
-URL  →  https://huggingface.co/spaces/Anmoldhiman17/moviemind-ai
+URL  →  https://huggingface.co/spaces/prathamvishwakarma/resumind-ai
 Host →  HuggingFace Spaces
 Infra →  Docker  (python:3.13.5-slim base image)
 Port →  8501  (Streamlit default)
@@ -166,7 +166,7 @@ Two architectures, one interface:
 
 Model: `mistral-small-2506`
 
-Fast, accurate, cost-efficient inference. Handles ambiguous descriptions, missing fields, and mixed-language inputs with grace.
+Fast, accurate, cost-efficient inference. Handles multi-page resumes, missing fields, and varied formats with grace.
 
 Zero-hallucination policy — unknown fields return `NULL`, never fabricated values.
 
@@ -189,13 +189,13 @@ Full production chain:
 
 **📊 &nbsp;Pydantic Schema Output**
 
-`MovieInfo` model fields:
+`ResumeInfo` model fields:
 ```python
-title · release_year · genre[]
-director · main_cast[]
-setting_location · plot
-themes[] · ratings
-notable_features · short_summary
+full_name · email · phone
+skills[] · experience[]
+education[] · certifications[]
+projects[] · languages[]
+summary · ats_score
 ```
 
 </td>
@@ -206,7 +206,7 @@ notable_features · short_summary
 **🎨 &nbsp;2026-Level UI Design**
 
 - Glassmorphism panels (blur + transparency)
-- Neon purple / cyan gradient system
+- Neon green / teal gradient system
 - Animated `hue-rotate` background pulse
 - Staggered card entrance animations
 - Hover lift + glow border effects
@@ -217,7 +217,7 @@ notable_features · short_summary
 
 **🛠️ &nbsp;Developer-Grade UX**
 
-- One-click sample input (Inception demo)
+- One-click sample input (demo resume)
 - Raw JSON output toggle
 - Copy-friendly code block output
 - Graceful error UI with recovery
@@ -238,10 +238,10 @@ notable_features · short_summary
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                     MOVIEMIND AI — PIPELINE                         │
+│                     RESUMIND AI — PIPELINE                          │
 │  ─────────────────────────────────────────────────────────────────  │
 │                                                                     │
-│   📝  User Input  (movie paragraph / review / synopsis / trivia)    │
+│   📝  User Input  (resume text / paste / upload)                    │
 │         │                                                           │
 │         ▼                                                           │
 │   ⚙️   LangChain  ChatPromptTemplate                                │
@@ -268,7 +268,7 @@ notable_features · short_summary
 
 | Step | Action | Technology |
 |:----:|:-------|:----------:|
-| 1️⃣ | Paste any movie paragraph into the input area | Streamlit UI |
+| 1️⃣ | Paste any resume text into the input area | Streamlit UI |
 | 2️⃣ | LangChain formats the prompt with system instructions | `ChatPromptTemplate` |
 | 3️⃣ | Mistral AI processes and extracts structured fields | `ChatMistralAI` |
 | 4️⃣ | Output parsed — plain text or validated Pydantic schema | `PydanticOutputParser` |
@@ -309,8 +309,8 @@ notable_features · short_summary
 **1 — Clone the repo**
 
 ```bash
-git clone https://github.com/anmoldhiman17/moviemind-ai-intelligence.git
-cd moviemind-ai-intelligence
+git clone https://github.com/prathamvishwakarma/resumind-ai.git
+cd resumind-ai
 ```
 
 **2 — Install dependencies**
@@ -355,16 +355,16 @@ Open **http://localhost:8501** in your browser.
        🧾  Text Mode       →  Clean, readable field-by-field output
        🧠  Structured Mode →  Premium card UI + JSON schema view
 
-03  Paste any movie description, synopsis, review, or trivia paragraph
+03  Paste any resume text — raw copy-paste from PDF, LinkedIn, or Word
 
 04  Hit  🚀 Extract Intelligence
 
 05  View results instantly:
        Text Mode   →  syntax-highlighted structured text block
-       Structured  →  animated cards, genre tags, cast chips, rating badge
+       Structured  →  animated cards, skill tags, experience chips, ATS score badge
 
 06  Toggle  📦 Show JSON Output  in sidebar (Structured Mode only)
-07  Use  💡 Load Sample  to test with the built-in Inception demo
+07  Use  💡 Load Sample  to test with the built-in demo resume
 08  Use  🗑 Clear  to reset session and start fresh
 ```
 
@@ -373,27 +373,28 @@ Open **http://localhost:8501** in your browser.
 **Example Input:**
 
 ```text
-Inception (2010) is a mind-bending science fiction thriller directed by Christopher Nolan.
-The film stars Leonardo DiCaprio as Dom Cobb, a skilled thief who specializes in extraction —
-stealing secrets from within the subconscious during dream states. Set across dream levels
-including Paris, a snowy fortress, and a zero-gravity hotel. IMDb rating: 8.8/10.
+Pratham Vishwakarma | pratham@email.com | +91-XXXXXXXXXX | LinkedIn: /in/prathamvishwakarma
+Software Engineer — 2 years experience in Python, FastAPI, and ML deployment.
+B.Tech Computer Science, XYZ University, 2023. Skills: Python, Docker, LangChain,
+Streamlit, Scikit-learn, SQL. Projects: ResuMind AI, StockSense Dashboard.
+Certifications: Google Cloud Associate, DeepLearning.AI ML Specialization.
 ```
 
 **Example Output — Text Mode:**
 
 ```
-Movie Title:      Inception
-Release Year:     2010
-Genre:            Science Fiction, Thriller
-Director:         Christopher Nolan
-Main Cast:        Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy
-Setting/Location: Paris · Snowy Mountain Fortress · Zero-Gravity Hotel
-Themes:           Reality, Memory, Guilt, Subconscious
-Ratings:          IMDb 8.8/10
-Notable Features: Practical effects, Hans Zimmer score, non-linear dream structure
+Full Name:        Pratham Vishwakarma
+Email:            pratham@email.com
+Phone:            +91-XXXXXXXXXX
+Skills:           Python, Docker, LangChain, Streamlit, Scikit-learn, SQL
+Experience:       Software Engineer — 2 years
+Education:        B.Tech Computer Science, XYZ University (2023)
+Certifications:   Google Cloud Associate · DeepLearning.AI ML Specialization
+Projects:         ResuMind AI · StockSense Dashboard
+ATS Score:        84/100
 
-Short Summary:    A guilt-ridden extractor takes one last job — planting an idea
-                  deep in a target's mind across multiple layered dream levels.
+Short Summary:    A results-driven engineer with hands-on ML deployment experience
+                  and a strong portfolio of production AI applications.
 ```
 
 <br/>
@@ -405,7 +406,7 @@ Short Summary:    A guilt-ridden extractor takes one last job — planting an id
 <br/>
 
 ```
-moviemind-ai-intelligence/
+resumind-ai/
 │
 ├── 📄  app.py                ← Main Streamlit application
 ├── 📋  requirements.txt      ← Python dependencies
@@ -415,15 +416,15 @@ moviemind-ai-intelligence/
 │
 ├── 📸  welcome.png           ← Screenshot: welcome screen
 ├── 📸  chat.png              ← Screenshot: extraction demo
-├── 📸  robot.png             ← Screenshot: structured mode
-└── 📸  sad.png               ← Screenshot: error / empty state
+├── 📸  structured.png        ← Screenshot: structured mode
+└── 📸  error.png             ← Screenshot: error / empty state
 ```
 
 <br/>
 
 ---
 
-## 💎 &nbsp;Why MovieMind Is Different
+## 💎 &nbsp;Why ResuMind Is Different
 
 <br/>
 
@@ -446,7 +447,7 @@ moviemind-ai-intelligence/
 | 🛡️ | **NULL-Safe Design** | Missing fields return `NULL`. The model is explicitly instructed never to guess or fabricate unknown values. |
 | 🎨 | **Portfolio-Grade SaaS UI** | Glassmorphism, neon gradients, animated backgrounds, staggered cards — it looks like a funded startup, not a hackathon demo. |
 | ☁️ | **Production Deployed** | Live on HuggingFace Spaces with Docker — real infrastructure, real CI/CD, not just a localhost screenshot. |
-| 🧩 | **Extensible Architecture** | Swap Mistral for GPT-4o in one line. Extend `MovieInfo`. Add new extraction modes in minutes. |
+| 🧩 | **Extensible Architecture** | Swap Mistral for GPT-4o in one line. Extend `ResumeInfo`. Add ATS scoring or job-match modes in minutes. |
 
 <br/>
 
@@ -467,9 +468,9 @@ git push origin feature/your-feature-name
 
 **Ideas welcome:**
 - 🌐 Multi-LLM support (OpenAI, Gemini, Cohere)
-- 📊 Movie comparison / batch extraction mode
-- 🗂️ Export results to CSV or PDF
-- 🌍 Multi-language paragraph support
+- 📊 Job description matching / ATS score comparison
+- 🗂️ Export results to PDF or Word
+- 🌍 Multi-language resume support
 - 🧪 Unit tests for the extraction pipeline
 
 <br/>
@@ -498,24 +499,24 @@ See [`LICENSE`](LICENSE) for full details.
 
 <div align="center">
 
-<img src="https://github.com/anmoldhiman17.png" 
+<img src="https://github.com/prathamvishwakarma.png" 
      width="110" 
-     style="border-radius:50%; border:3px solid #a78bfa;" 
-     alt="Anmol Dhiman"/>
+     style="border-radius:50%; border:3px solid #4ade80;" 
+     alt="Pratham Vishwakarma"/>
 <br/><br/>
 
-**Anmol Dhiman**
+**Pratham Vishwakarma**
 
 *Building AI products that look as good as they work.*
 
 <br/>
 
-<a href="https://github.com/anmoldhiman17">
-  <img src="https://img.shields.io/badge/GitHub-anmoldhiman17-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<a href="https://github.com/prathamvishwakarma">
+  <img src="https://img.shields.io/badge/GitHub-prathamvishwakarma-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://huggingface.co/Anmoldhiman17">
-  <img src="https://img.shields.io/badge/HuggingFace-Anmoldhiman17-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a0a00"/>
+<a href="https://huggingface.co/prathamvishwakarma">
+  <img src="https://img.shields.io/badge/HuggingFace-prathamvishwakarma-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a0a00"/>
 </a>
 
 </div>
@@ -528,7 +529,7 @@ See [`LICENSE`](LICENSE) for full details.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,40:3b0764,70:1e3a5f,100:0d001a&height=160&section=footer&text=MovieMind%20AI&fontSize=36&fontColor=a78bfa&animation=fadeIn&fontAlignY=60&desc=Powered%20by%20Mistral%20%C2%B7%20LangChain%20%C2%B7%20Streamlit&descSize=14&descColor=64748b&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,40:064d2e,70:1a3a5f,100:001a0d&height=160&section=footer&text=ResuMind%20AI&fontSize=36&fontColor=4ade80&animation=fadeIn&fontAlignY=60&desc=Powered%20by%20Mistral%20%C2%B7%20LangChain%20%C2%B7%20Streamlit&descSize=14&descColor=64748b&descAlignY=80" width="100%"/>
 
 <br/>
 
@@ -536,8 +537,8 @@ See [`LICENSE`](LICENSE) for full details.
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/anmoldhiman17/moviemind-ai-intelligence?style=social&label=Star%20this%20repo)](https://github.com/anmoldhiman17/moviemind-ai-intelligence)
+[![Stars](https://img.shields.io/github/stars/prathamvishwakarma/resumind-ai?style=social&label=Star%20this%20repo)](https://github.com/prathamvishwakarma/resumind-ai)
 &nbsp;&nbsp;
-[![Forks](https://img.shields.io/github/forks/anmoldhiman17/moviemind-ai-intelligence?style=social&label=Fork)](https://github.com/anmoldhiman17/moviemind-ai-intelligence/fork)
+[![Forks](https://img.shields.io/github/forks/prathamvishwakarma/resumind-ai?style=social&label=Fork)](https://github.com/prathamvishwakarma/resumind-ai/fork)
 
 </div>

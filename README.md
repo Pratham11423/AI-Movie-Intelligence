@@ -499,7 +499,7 @@ See [`LICENSE`](LICENSE) for full details.
 
 <div align="center">
 
-<img src="https://github.com/prathamvishwakarma.png" 
+<img src="https://github.com/Pratham11423.png" 
      width="110" 
      style="border-radius:50%; border:3px solid #4ade80;" 
      alt="Pratham Vishwakarma"/>
@@ -511,8 +511,8 @@ See [`LICENSE`](LICENSE) for full details.
 
 <br/>
 
-<a href="[https://github.com/prathamvishwakarma](https://github.com/Pratham11423)">
-  <img src="https://img.shields.io/badge/GitHub-prathamvishwakarma-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<a href="[https://github.com/Pratham11423](https://github.com/Pratham11423)">
+  <img src="https://img.shields.io/badge/GitHub-Pratham11423?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://huggingface.co/prathamvishwakarma">

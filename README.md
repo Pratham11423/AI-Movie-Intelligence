@@ -51,11 +51,11 @@
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-HuggingFace%20Spaces-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a0a00" alt="Live Demo"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/prathamvishwakarma/resumind-ai">
+<a href="https://github.com/Pratham11423/resumind-ai">
   <img src="https://img.shields.io/badge/%E2%AD%90%20Star%20Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Star Repo"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/prathamvishwakarma/resumind-ai/blob/main/app.py">
+<a href="https://github.com/Pratham11423/resumind-ai/blob/main/app.py">
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20View%20Code-Source-16a34a?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=001a0d" alt="View Code"/>
 </a>
 
@@ -537,8 +537,8 @@ See [`LICENSE`](LICENSE) for full details.
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/prathamvishwakarma/resumind-ai?style=social&label=Star%20this%20repo)](https://github.com/prathamvishwakarma/resumind-ai)
+[![Stars](https://img.shields.io/github/stars/Pratham11423/resumind-ai?style=social&label=Star%20this%20repo)](https://github.com/Pratham11423/resumind-ai)
 &nbsp;&nbsp;
-[![Forks](https://img.shields.io/github/forks/prathamvishwakarma/resumind-ai?style=social&label=Fork)](https://github.com/prathamvishwakarma/resumind-ai/fork)
+[![Forks](https://img.shields.io/github/forks/Pratham11423/resumind-ai?style=social&label=Fork)](https://github.com/Pratham11423/resumind-ai/fork)
 
 </div>

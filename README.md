@@ -511,7 +511,7 @@ See [`LICENSE`](LICENSE) for full details.
 
 <br/>
 
-<a href="https://github.com/prathamvishwakarma">
+<a href="[https://github.com/prathamvishwakarma](https://github.com/Pratham11423)">
   <img src="https://img.shields.io/badge/GitHub-prathamvishwakarma-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;

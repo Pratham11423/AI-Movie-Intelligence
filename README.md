@@ -2,20 +2,20 @@
 
 <!--
   ╔══════════════════════════════════════════════════════╗
-  ║          RESUMIND AI — PREMIUM README                ║
+  ║          MOVIEMIND AI — PREMIUM README                ║
   ║        Designed to impress. Built to convert.        ║
   ╚══════════════════════════════════════════════════════╝
 -->
 
 <!-- ═══════════════════════ TOP BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a0d,40:064d2e,70:1a3a5f,100:001a0d&height=300&section=header&text=ResuMind%20AI&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%E2%9C%A6%20AI-Powered%20Resume%20Intelligence%20Analyzer%20%E2%9C%A6&descAlignY=68&descSize=20&descColor=86efac&stroke=4ade80&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a0d,40:064d2e,70:1a3a5f,100:001a0d&height=300&section=header&text=MovieMind%20AI&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%E2%9C%A6%20AI-Powered%20Movie%20Intelligence%20Analyzer%20%E2%9C%A6&descAlignY=68&descSize=20&descColor=86efac&stroke=4ade80&strokeWidth=2" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=750&height=46&lines=Analyze+Any+Resume+Instantly;Dual+Mode+AI+Extraction+Engine;Mistral+AI+%2B+LangChain+Pipeline;Premium+SaaS+UI+%7C+Portfolio+Ready;Live+on+HuggingFace+Spaces" alt="ResuMind AI — rotating taglines"/>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=750&height=46&lines=Analyze+Any+Movie+Instantly;Dual+Mode+AI+Extraction+Engine;Mistral+AI+%2B+LangChain+Pipeline;Premium+SaaS+UI+%7C+Portfolio+Ready;Live+on+HuggingFace+Spaces" alt="MovieMind AI — rotating taglines"/>
 
 <br/><br/>
 
@@ -47,15 +47,15 @@
 
 <!-- ═══════════════════════ CTA BUTTONS ═══════════════════════ -->
 
-<a href="https://huggingface.co/spaces/prathamvishwakarma/resumind-ai">
+<a href="https://huggingface.co/spaces/prathamvishwakarma/moviemind-ai">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-HuggingFace%20Spaces-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a0a00" alt="Live Demo"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Pratham11423/resumind-ai">
+<a href="https://github.com/Pratham11423/moviemind-ai">
   <img src="https://img.shields.io/badge/%E2%AD%90%20Star%20Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Star Repo"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Pratham11423/resumind-ai/blob/main/app.py">
+<a href="https://github.com/Pratham11423/moviemind-ai/blob/main/app.py">
   <img src="https://img.shields.io/badge/%F0%9F%93%A6%20View%20Code-Source-16a34a?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=001a0d" alt="View Code"/>
 </a>
 
@@ -65,7 +65,7 @@
 
 <br/>
 
-> ### *"Not just a UI wrapper — a production AI pipeline that transforms raw resume text into structured career intelligence."*
+> ### *"Not just a UI wrapper — a production AI pipeline that transforms raw movie text into structured cinematic intelligence."*
 
 <br/>
 
@@ -109,18 +109,18 @@
 
 <br/><br/>
 
-ResuMind AI is fully deployed and publicly accessible — no setup required. Click below to open the live app:
+MovieMind AI is fully deployed and publicly accessible — no setup required. Click below to open the live app:
 
 <br/>
 
-<a href="https://huggingface.co/spaces/prathamvishwakarma/resumind-ai">
-  <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20%20Open%20Live%20App%20%E2%80%94%20ResuMind%20AI-Click%20to%20Preview-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=2d1a00" height="42" alt="Open Live App"/>
+<a href="https://huggingface.co/spaces/prathamvishwakarma/moviemind-ai">
+  <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20%20Open%20Live%20App%20%E2%80%94%20MovieMind%20AI-Click%20to%20Preview-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=2d1a00" height="42" alt="Open Live App"/>
 </a>
 
 <br/><br/>
 
 ```
-URL  →  https://huggingface.co/spaces/prathamvishwakarma/resumind-ai
+URL  →  https://huggingface.co/spaces/prathamvishwakarma/moviemind-ai
 Host →  HuggingFace Spaces
 Infra →  Docker  (python:3.13.5-slim base image)
 Port →  8501  (Streamlit default)
@@ -166,7 +166,7 @@ Two architectures, one interface:
 
 Model: `mistral-small-2506`
 
-Fast, accurate, cost-efficient inference. Handles multi-page resumes, missing fields, and varied formats with grace.
+Fast, accurate, cost-efficient inference. Handles multi-page movie text, missing fields, and varied formats with grace.
 
 Zero-hallucination policy — unknown fields return `NULL`, never fabricated values.
 
@@ -189,7 +189,7 @@ Full production chain:
 
 **📊 &nbsp;Pydantic Schema Output**
 
-`ResumeInfo` model fields:
+`MovieInfo` model fields:
 ```python
 full_name · email · phone
 skills[] · experience[]
@@ -217,7 +217,7 @@ summary · ats_score
 
 **🛠️ &nbsp;Developer-Grade UX**
 
-- One-click sample input (demo resume)
+- One-click sample input (demo movie)
 - Raw JSON output toggle
 - Copy-friendly code block output
 - Graceful error UI with recovery
@@ -238,10 +238,10 @@ summary · ats_score
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                     RESUMIND AI — PIPELINE                          │
+│                     MOVIEMIND AI — PIPELINE                          │
 │  ─────────────────────────────────────────────────────────────────  │
 │                                                                     │
-│   📝  User Input  (resume text / paste / upload)                    │
+│   📝  User Input  (movie text / paste / upload)                    │
 │         │                                                           │
 │         ▼                                                           │
 │   ⚙️   LangChain  ChatPromptTemplate                                │
@@ -268,7 +268,7 @@ summary · ats_score
 
 | Step | Action | Technology |
 |:----:|:-------|:----------:|
-| 1️⃣ | Paste any resume text into the input area | Streamlit UI |
+| 1️⃣ | Paste any movie text into the input area | Streamlit UI |
 | 2️⃣ | LangChain formats the prompt with system instructions | `ChatPromptTemplate` |
 | 3️⃣ | Mistral AI processes and extracts structured fields | `ChatMistralAI` |
 | 4️⃣ | Output parsed — plain text or validated Pydantic schema | `PydanticOutputParser` |
@@ -309,8 +309,8 @@ summary · ats_score
 **1 — Clone the repo**
 
 ```bash
-git clone https://github.com/prathamvishwakarma/resumind-ai.git
-cd resumind-ai
+git clone https://github.com/prathamvishwakarma/moviemind-ai.git
+cd moviemind-ai
 ```
 
 **2 — Install dependencies**
@@ -355,16 +355,16 @@ Open **http://localhost:8501** in your browser.
        🧾  Text Mode       →  Clean, readable field-by-field output
        🧠  Structured Mode →  Premium card UI + JSON schema view
 
-03  Paste any resume text — raw copy-paste from PDF, LinkedIn, or Word
+03  Paste any movie text — raw copy-paste from PDF, script, or Word
 
 04  Hit  🚀 Extract Intelligence
 
 05  View results instantly:
        Text Mode   →  syntax-highlighted structured text block
-       Structured  →  animated cards, skill tags, experience chips, ATS score badge
+       Structured  →  animated cards, tags, chips, score badge
 
 06  Toggle  📦 Show JSON Output  in sidebar (Structured Mode only)
-07  Use  💡 Load Sample  to test with the built-in demo resume
+07  Use  💡 Load Sample  to test with the built-in demo movie
 08  Use  🗑 Clear  to reset session and start fresh
 ```
 
@@ -376,7 +376,7 @@ Open **http://localhost:8501** in your browser.
 Pratham Vishwakarma | pratham@email.com | +91-XXXXXXXXXX | LinkedIn: /in/prathamvishwakarma
 Software Engineer — 2 years experience in Python, FastAPI, and ML deployment.
 B.Tech Computer Science, XYZ University, 2023. Skills: Python, Docker, LangChain,
-Streamlit, Scikit-learn, SQL. Projects: ResuMind AI, StockSense Dashboard.
+Streamlit, Scikit-learn, SQL. Projects: MovieMind AI, StockSense Dashboard.
 Certifications: Google Cloud Associate, DeepLearning.AI ML Specialization.
 ```
 
@@ -390,7 +390,7 @@ Skills:           Python, Docker, LangChain, Streamlit, Scikit-learn, SQL
 Experience:       Software Engineer — 2 years
 Education:        B.Tech Computer Science, XYZ University (2023)
 Certifications:   Google Cloud Associate · DeepLearning.AI ML Specialization
-Projects:         ResuMind AI · StockSense Dashboard
+Projects:         MovieMind AI · StockSense Dashboard
 ATS Score:        84/100
 
 Short Summary:    A results-driven engineer with hands-on ML deployment experience
@@ -406,7 +406,7 @@ Short Summary:    A results-driven engineer with hands-on ML deployment experien
 <br/>
 
 ```
-resumind-ai/
+moviemind-ai/
 │
 ├── 📄  app.py                ← Main Streamlit application
 ├── 📋  requirements.txt      ← Python dependencies
@@ -424,7 +424,7 @@ resumind-ai/
 
 ---
 
-## 💎 &nbsp;Why ResuMind Is Different
+## 💎 &nbsp;Why MovieMind Is Different
 
 <br/>
 
@@ -447,7 +447,7 @@ resumind-ai/
 | 🛡️ | **NULL-Safe Design** | Missing fields return `NULL`. The model is explicitly instructed never to guess or fabricate unknown values. |
 | 🎨 | **Portfolio-Grade SaaS UI** | Glassmorphism, neon gradients, animated backgrounds, staggered cards — it looks like a funded startup, not a hackathon demo. |
 | ☁️ | **Production Deployed** | Live on HuggingFace Spaces with Docker — real infrastructure, real CI/CD, not just a localhost screenshot. |
-| 🧩 | **Extensible Architecture** | Swap Mistral for GPT-4o in one line. Extend `ResumeInfo`. Add ATS scoring or job-match modes in minutes. |
+| 🧩 | **Extensible Architecture** | Swap Mistral for GPT-4o in one line. Extend `MovieInfo`. Add scoring or match modes in minutes. |
 
 <br/>
 
@@ -470,7 +470,7 @@ git push origin feature/your-feature-name
 - 🌐 Multi-LLM support (OpenAI, Gemini, Cohere)
 - 📊 Job description matching / ATS score comparison
 - 🗂️ Export results to PDF or Word
-- 🌍 Multi-language resume support
+- 🌍 Multi-language support
 - 🧪 Unit tests for the extraction pipeline
 
 <br/>
@@ -529,7 +529,7 @@ See [`LICENSE`](LICENSE) for full details.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,40:064d2e,70:1a3a5f,100:001a0d&height=160&section=footer&text=ResuMind%20AI&fontSize=36&fontColor=4ade80&animation=fadeIn&fontAlignY=60&desc=Powered%20by%20Mistral%20%C2%B7%20LangChain%20%C2%B7%20Streamlit&descSize=14&descColor=64748b&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,40:064d2e,70:1a3a5f,100:001a0d&height=160&section=footer&text=MovieMind%20AI&fontSize=36&fontColor=4ade80&animation=fadeIn&fontAlignY=60&desc=Powered%20by%20Mistral%20%C2%B7%20LangChain%20%C2%B7%20Streamlit&descSize=14&descColor=64748b&descAlignY=80" width="100%"/>
 
 <br/>
 
@@ -537,8 +537,8 @@ See [`LICENSE`](LICENSE) for full details.
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/Pratham11423/resumind-ai?style=social&label=Star%20this%20repo)](https://github.com/Pratham11423/resumind-ai)
+[![Stars](https://img.shields.io/github/stars/Pratham11423/moviemind-ai?style=social&label=Star%20this%20repo)](https://github.com/Pratham11423/moviemind-ai)
 &nbsp;&nbsp;
-[![Forks](https://img.shields.io/github/forks/Pratham11423/resumind-ai?style=social&label=Fork)](https://github.com/Pratham11423/resumind-ai/fork)
+[![Forks](https://img.shields.io/github/forks/Pratham11423/moviemind-ai?style=social&label=Fork)](https://github.com/Pratham11423/moviemind-ai/fork)
 
 </div>
